@@ -1,4 +1,4 @@
-import type { NextPage } from 'next'
+{/*import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -45,4 +45,4 @@ export async function getStaticProps() {
     return compareDesc(new Date(a.date), new Date(b.date))
   })
   return { props: { posts } }
-}
+}*/}
