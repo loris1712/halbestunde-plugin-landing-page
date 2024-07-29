@@ -114,8 +114,8 @@ const HeroSection: React.FC = () => {
               <FallInPlace delay={0.4} fontWeight="medium">
 
                 Transform any <Em>sheet music into a MIDI file effortlessly.</Em> <Br /> 
-                Whether it's timeless classics by Bach or intricate jazz licks, 
-                we've got you covered. With our service, you can breathe new life into 
+                Whether it&apos;s timeless classics by Bach or intricate jazz licks, 
+                we&apos;ve got you covered. With our service, you can breathe new life into 
                 music created centuries ago, making it perfect for your modern projects.
               </FallInPlace>
             }
