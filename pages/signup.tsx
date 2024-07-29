@@ -1,4 +1,4 @@
-import { NextPage } from 'next'
+{/*import { NextPage } from 'next'
 import NextLink from 'next/link'
 import { Box, Center, Stack, Text } from '@chakra-ui/react'
 import { Auth, Link } from '@saas-ui/react'
@@ -108,4 +108,4 @@ export const getStaticProps = () => {
       },
     },
   }
-}
+}*/}

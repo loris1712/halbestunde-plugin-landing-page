@@ -1,4 +1,4 @@
-import { Center } from '@chakra-ui/react'
+{/*import { Center } from '@chakra-ui/react'
 import { Auth } from '@saas-ui/auth'
 import { Link } from '@saas-ui/react'
 import { BackgroundGradient } from 'components/gradients/background-gradient'
@@ -37,4 +37,4 @@ const Login: NextPage = () => {
   )
 }
 
-export default Login
+export default Login*/}
