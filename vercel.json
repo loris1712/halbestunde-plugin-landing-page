@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "version": 2,
   "builds": [
     {
@@ -8,5 +9,15 @@
   ],
   "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
+=======
+    "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/static-build"
+      }
+    ]
+  }
+>>>>>>> e8c90f9d35fe1b55a62b2ba6ef1846f1e03eaf8a
   
   
